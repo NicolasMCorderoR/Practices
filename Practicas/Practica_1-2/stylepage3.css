@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: gold;
+    border: 1px solid white;
+    padding: 4px;
+}
+
+h1,
+h2,
+h3 {
+    text-decoration: underline;
+    margin: 0%;
+    padding: 0%;
+}
+
+p {
+    border: 3px solid red;
+    margin-top: 0.1em;
+    margin-bottom: 1em;
+    padding: 8px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+iframe {
+    height: 80px;
+    border: 2px solid white;
+    margin-bottom: 1em;
+}
